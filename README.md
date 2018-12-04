@@ -6,7 +6,7 @@ This repository hosts several projects, all of them trying to enhance the effici
 
 * The most advanced one is the result of the work of DJ1MR, using the OpenHPSDR firmware. 
 * The DK7XL directory is a variant of this design
-* A second project, by Manfred XQ6FOD, is still under development. Also based on an OpenHPSDR firmware fork writtent by Pavel Denim
+* A second project, by Manfred XQ6FOD, is still under development. Also based on an OpenHPSDR compatible firmware writtent by Pavel Demin
 and dedicated to Red Pitaya users. 
 * A specific subdirectory hosts a conversation (email thread in pdf format) between the main ET/EER experimenters(DJ1MR, K1LI, VK6PH). A careful reading of 
 this technical discussion is recommanded to understand the many hindrances (and proposed solutions) of such a project.
